@@ -15,7 +15,7 @@
     "browserify": "13.0.x",
     "express": "^4.12.3",
     "serialize-javascript": "^1.0.0",
-    "uglifyify": "^3.0.1"
+    "uglifyify": "^5.0.2"
   },
   "scripts": {
     "start": "npm install && babel-node ./server.js"
