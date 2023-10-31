@@ -9,7 +9,7 @@
     "@cycle/run": "2.0",
     "@cycle/time": "^0.8.0",
     "snabbdom-jsx": "0.3.1",
-    "xstream": "10.x"
+    "xstream": "11.x"
   },
   "devDependencies": {
     "@types/node": "^7.0.4",

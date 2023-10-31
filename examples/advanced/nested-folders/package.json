@@ -10,7 +10,7 @@
     "@cycle/run": "1.0.0-rc.9",
     "@cycle/dom": "15.0.0-rc.2",
     "cycle-onionify": "4.0.0",
-    "xstream": "10.2"
+    "xstream": "11.14"
   },
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.6.5",

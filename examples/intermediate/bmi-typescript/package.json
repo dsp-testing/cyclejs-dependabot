@@ -8,7 +8,7 @@
     "@cycle/run": "3.0",
     "@cycle/dom": "16.0",
     "@cycle/isolate": "2.1",
-    "xstream": "10.3"
+    "xstream": "11.14"
   },
   "devDependencies": {
     "browserify": "13.0.x",
