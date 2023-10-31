@@ -9,7 +9,7 @@
     "@cycle/isolate": "2.0.0-rc.1",
     "@cycle/run": "1.0.0-rc.8",
     "@cycle/time": "^0.8.0",
-    "snabbdom-jsx": "0.3.x",
+    "snabbdom-jsx": "0.4.x",
     "xstream": "10.x.x"
   },
   "devDependencies": {
