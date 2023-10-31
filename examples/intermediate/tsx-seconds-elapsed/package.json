@@ -20,7 +20,7 @@
     "babelify": "^7.2.0",
     "browserify": "13.0.x",
     "mkdirp": "0.5.x",
-    "typescript": "2.2.x"
+    "typescript": "5.2.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
