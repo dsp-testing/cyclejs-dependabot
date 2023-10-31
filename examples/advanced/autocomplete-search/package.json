@@ -20,7 +20,7 @@
     "babel-register": "^6.4.3",
     "babelify": "^7.2.0",
     "mkdirp": "0.5.x",
-    "watchify": "^3.7.0"
+    "watchify": "^4.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
